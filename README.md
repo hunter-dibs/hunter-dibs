@@ -14,22 +14,26 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/@drajb003"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@drajb003" height="30" width="40" /></a>
-  <!-- Add other social media icons similarly -->
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Add icons and links for your languages and tools -->
+ 
 </p>
 
+GitHub Stats Section
+You can leave this section commented out for now 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunter-dibs&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hunter-dibs&show_icons=true&locale=en&token=${PAT_1}" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hunter-dibs&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunter-dibs" alt="GitHub Streak" />
 </p>
+
+
