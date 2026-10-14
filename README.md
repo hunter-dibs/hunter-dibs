@@ -10,6 +10,7 @@ Master of Data Science Student | AI & Computational Modelling | Data Science Res
   </a>
   
   <a href="https://scholar.google.com/citations?user=KKIo4QQAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Research-blue?style=for-the-badge&logo=googlescholar" alt="Google Scholar" />
   </a>
 </p>
 
