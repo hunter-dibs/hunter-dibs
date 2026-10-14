@@ -1,37 +1,92 @@
 <h1 align="center">Hi 👋, I'm Dibosh Rajbongshi</h1>
-<h3 align="center">Passionate Frontend Developer from Bangladesh</h3>
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding GIF" align="center" width="300" height="200">
+
+<h3 align="center">
+Master of Data Science Student | AI & Computational Modelling | Data Science Researcher
+</h3>
 
 <p align="center">
-  <a href="https://twitter.com/@drajb003">
-    <img src="https://img.shields.io/twitter/follow/@drajb003?logo=twitter&style=for-the-badge" alt="@drajb003" />
+  <a href="https://linkedin.com/in/dibosh-rajbongshi">
+    <img src="https://img.shields.io/badge/LinkedIn-Dibosh%20Rajbongshi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://scholar.google.com/citations?user=KKIo4QQAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Research-blue?style=for-the-badge&logo=googlescholar" alt="Google Scholar" />
   </a>
 </p>
 
-- 🌱 Currently learning **React**
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Currently pursuing a **Master of Data Science** at the **University of Canberra**
+- 🤖 Specialising in **AI and Computational Modelling**
+- 📊 Interested in **Data Science, Machine Learning, Data Analysis, Data Visualisation and AI**
+- 🔬 Published researcher with a **Q1 journal publication** and an **IEEE conference paper**
+- 🌱 Interested in applying data science to real-world research problems
+- 💻 Experienced with **Python, R, SQL, Machine Learning, Computer Vision and Data Visualisation**
+- 📍 Based in **Canberra, Australia**
 - 📫 Reach me at **dxdiboshraj@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🔬 Research & Projects
+
+- **GEECO – Green Data Centres for Energy Optimisation and Carbon Footprint Reduction**
+  - Energy-consumption data analysis
+  - Data visualisation
+  - Outlier detection
+  - Sustainable computing research
+
+- **Surgeonix – AI-enabled Robotic Arm for Surgery Tool Detection and Handover Automation**
+  - Computer vision
+  - AI-based object detection
+  - Research published at an IEEE conference
+
+- **Vehicle Detection using VGG19 and YOLOv8**
+  - Deep learning
+  - Computer vision
+  - Image preprocessing and model evaluation
+
+---
+
+### 🛠️ Languages and Tools
+
 <p align="left">
-  <a href="https://twitter.com/@drajb003"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@drajb003" height="30" width="40" /></a>
- 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- 
-</p>
+---
 
-GitHub Stats Section
-You can leave this section commented out for now 
+### 📚 Publications
+
+- **GEECO: Green Data Centres for Energy Optimisation and Carbon Footprint Reduction**  
+  *Sustainability, 2023*
+
+- **Surgeonix: Smart AI-enabled Robotic Arm for Surgery Tool Detection and Handover Automation**  
+  *27th International Conference on Computer and Information Technology (IEEE ICCIT), 2024*
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunter-dibs&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hunter-dibs&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hunter-dibs&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hunter-dibs&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunter-dibs" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hunter-dibs" alt="GitHub Streak" />
 </p>
