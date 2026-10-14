@@ -5,7 +5,7 @@ Master of Data Science Student | AI & Computational Modelling | Data Science Res
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dibosh-rajbongshi">
+  
     <img src="https://img.shields.io/badge/LinkedIn-Dibosh%20Rajbongshi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   
